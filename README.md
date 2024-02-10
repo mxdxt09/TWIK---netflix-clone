@@ -1,3 +1,14 @@
+## ✨ How It Looks:
+
+## 1. Landing page of TWIK.
+![netflixHome](https://github.com/mxdxt09/TWIK---netflix-clone/assets/83859258/52aec0ca-2116-4d0a-bc6a-fbf3075d2fb3)
+
+***
+## 2. Click on a selected movie, you can watch the trailer on your device.
+
+![netflixTrailer](https://github.com/mxdxt09/TWIK---netflix-clone/assets/83859258/53c52bd5-f16c-4473-86f4-7dcf8a99ce3c)
+
+
 ## Demo
 
 https://netflix-clone-e23d2.web.app/
